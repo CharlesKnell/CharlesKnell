@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlesKnell
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and javascript
 - 📫 How to reach me: charles1283@gmail.com, please put "github:" in the subject line.
 
 <!---
