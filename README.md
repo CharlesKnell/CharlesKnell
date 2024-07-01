@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlesKnell
-- 🌱 I’m currently learning python. I've worked with javascript, HTML, CSS, SQL, and Assembly Language
+- 🌱 I’m currently learning python. I've worked with javascript, HTML, CSS, SQL, Java, and Assembly Language
 - 📫 How to reach me: charles1283@gmail.com, please put "github:" in the subject line.
 - blog: https://charlesknell.net
 - HTML and CSS demos site: http://www.charlesknell.us
