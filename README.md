@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CharlesKnell
-- 🌱 I’m currently learning python, javascript, HTML5, CSS
+- 🌱 I’m currently learning python. I've worked with javascript, HTML, CSS, SQL, and Assembly Language
 - 📫 How to reach me: charles1283@gmail.com, please put "github:" in the subject line.
-- demo site: http://www.charlesknell.us
+- blog: https://charlesknell.net
+- HTML and CSS demo site: http://www.charlesknell.us
 
 <!---
 CharlesKnell/CharlesKnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
