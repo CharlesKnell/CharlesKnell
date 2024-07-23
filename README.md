@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlesKnell
-- 🌱 I currently work in python. I've worked with javascript, HTML, CSS, SQL, Java, and Assembly Language.
-- 📫 How to reach me: charles1283@gmail.com, please put "github:" in the subject line.
+- 🌱 I'm currently working in python. I've worked with javascript, HTML, CSS, SQL, Java, C, and Assembly Language.
+- 📫 How to reach me: charles1283@gmail.com, please start the subject line with "github:".
 - blog: https://charlesknell.net
 - HTML and CSS demos site: http://www.charlesknell.us
 
