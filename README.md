@@ -2,7 +2,7 @@
 - 🌱 I'm currently working in python. I've worked with javascript, HTML, CSS, SQL, Java, C, and Assembly Language.
 - 📫 How to reach me: charles1283@gmail.com, please start the subject line with "github:".
 - blog: https://charlesknell.net
-- HTML and CSS demos site: http://www.charlesknell.us
+- HTML and CSS demos site: https://charlesknell.net/wp-content/wpa/
 
 <!---
 CharlesKnell/CharlesKnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
